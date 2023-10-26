@@ -140,8 +140,6 @@ applyPatches
 setupEnv
 buildTrebleApp
 buildVariant
-buildSlimVariant
-buildVndkliteVariant
 generatePackages
 generateOta
 
